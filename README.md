@@ -8,7 +8,7 @@ We also made use of NSF NOIRLab's DEMCELS data and GAIA DR3 data, which are both
 
 **OUTLINE**
 
-There are a couple of notebooks which highlight some of the main points of progress for our work. They are not necessarily final representations of our work but are examples of some steps we took. 
+There are a couple of notebooks which highlight some of the main points of progress for our work. They are not necessarily final or complete representations of our work but are examples of some steps we took. 
 
 *MUSEWCS*: There are fairly significant WCS offsets in all of the MUSE data cubes. This is very noticeable when compared to GAIA or HST data. This notebook highlights some of the major steps we took. 
 
